@@ -1,4 +1,4 @@
-# <font size="14">**Data Analytics | Statistical Analysis | Machine Learning**</font>    
+# <font size="10"><b>Data Analytics | Statistical Analysis | Machine Learning</b></font>    
 
 <br>________________________________________________________________________________<br>
 
@@ -27,7 +27,7 @@ In this project, my main objective was to incorporate real-time diagnostics of a
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/visualization-project-1)
 
-<br>---------------------------------------------------------------------------------<br>
+<br>________________________________________________________________________________<br>
 
 ### <b>Statistical Analysis Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/statistical-analysis-project-1/mp2_plot.png)
@@ -36,7 +36,7 @@ Tested hypothesis of whether the implementation of a revised gate system in a mo
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
-<br>---------------------------------------------------------------------------------<br>
+<br>________________________________________________________________________________<br>
 
 ### <b>Classification Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/classifproj.png)
@@ -45,7 +45,7 @@ Built a classification model to predict churn customers one month in advance and
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/classification-project-1)
 
-<br>---------------------------------------------------------------------------------<br>
+<br>________________________________________________________________________________<br>
 
 ### <b>Human Centered Design Projects</b>
 
