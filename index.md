@@ -39,7 +39,7 @@ Built a classification model to predict churn customers one month in advance and
 
 ### <b>Human Centered Design Projects</b>
 
-<i> Digital Essentials Project - Kopitiam </i>
+<em> Digital Essentials Project - Kopitiam </em>
 
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/digital-essentials-kopitiam/degp-kopitiam.png)
 
@@ -53,7 +53,7 @@ In this project our team proposed:<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/digital-essentials-kopitiam)
 
-<i> Hackathon Project - Pelago </i>
+<em> Hackathon Project - Pelago </em>
   
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago/hackathon-pelago.png)
 
