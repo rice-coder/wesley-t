@@ -1,5 +1,7 @@
 # <font size="14">**Data Analytics | Statistical Analysis | Machine Learning**</font>    
 
+<br>________________________________________________________________________________<br>
+
 ## **contact**
 
 ✉️: wesley.tbw@gmail.com
@@ -16,12 +18,16 @@ Hi there! I am __Wesley__, an aspiring Data Analyst and recent graduate from the
 [Classification Project](#classification-project) <br>
 [Human Centered Design Projects](#human-centered-design-projects) <br>
 
+<br>________________________________________________________________________________<br>
+
 ### <b>Visualization Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/visualization-project-1/visualization-project-Wesley_Teo.png)
 
 In this project, my main objective was to incorporate real-time diagnostics of a car seat manufacturing plant's operational processes to better manage available production lines and increase profit margin. Using data and analytics to track the production process of various machines in real time, I provided better visibility of the seat manufacturing process. An analytics dashboard was created using PowerBI to track the plant's operational process across various metrics i.e., downtime minutes, total machine utilization time, etc. Power Query Editor was used to cleaned the preliminary dataset and DAX expressions in PowerBI were used to create the visualized metrics.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/visualization-project-1)
+
+<br>---------------------------------------------------------------------------------<br>
 
 ### <b>Statistical Analysis Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/statistical-analysis-project-1/mp2_plot.png)
@@ -30,12 +36,16 @@ Tested hypothesis of whether the implementation of a revised gate system in a mo
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
+<br>---------------------------------------------------------------------------------<br>
+
 ### <b>Classification Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/classifproj.png)
 
 Built a classification model to predict churn customers one month in advance and also identified key churn drivers for a telecom company. Completed end-to-end coding which included data cleaning, exploratory data analysis and feature engineering. Constructed a random forest classification model and tuned probability thresholds to better capture churn in this use case.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/classification-project-1)
+
+<br>---------------------------------------------------------------------------------<br>
 
 ### <b>Human Centered Design Projects</b>
 
@@ -67,6 +77,8 @@ Our team proposed the use of an app that could:<br>
 2. Encourages customer engagement by empowering them to build a community to share travel experiences and ideas.<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/hackathon-pelago)
+
+<br>________________________________________________________________________________<br>
 
 ## **featured**
 
