@@ -1,3 +1,5 @@
+<span style=font-family: Bahnschrift>
+
 ## <b>Data Analytics | Statistical Analysis | Machine Learning</b>  
 
 <br>________________________________________________________________________________<br>
@@ -94,3 +96,5 @@ Our team proposed the use of an app that could:<br>
 ![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)
 
 [RISE-BCG Top 2 Business Essentials Project](https://www.credly.com/badges/c1312155-76ea-4e80-bcb6-709f5b8d7326?source=linked_in_profile)
+  
+  </span>
