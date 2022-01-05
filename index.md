@@ -1,4 +1,4 @@
-# <font size="20"><b>Data Analytics | Statistical Analysis | Machine Learning</b></font>    
+## <b>Data Analytics | Statistical Analysis | Machine Learning</b>  
 
 <br>________________________________________________________________________________<br>
 
