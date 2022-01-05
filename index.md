@@ -1,15 +1,17 @@
-# Data Analytics | Statistical Analysis | Machine Learning
+# **Data Analytics | Statistical Analysis | Machine Learning**
 
-## contact
+
+
+## **contact**
 
 ✉️: wesley.tbw@gmail.com
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/wesley-teo-bw/) 
 
-## about
+## **about**
 
 I am __Wesley__, an aspiring Data Analyst and recent graduate from the Rapid & Immersive Skill Enhancement (RISE) course by Boston Consulting Group (BCG). I am also a graduate in Psychology from National University of Singapore (NUS) and have 7 years of working experience. Thank you for visiting my page! Feel free to take a look around and use the links to navigate through my various projects.
 
-## projects
+## **projects**
 
 [visualization project](#visualization-project) <br>
 [statistical analysis project](#statistical-analysis-project) <br>
@@ -68,7 +70,7 @@ Our team proposed the use of an app that could:<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/hackathon-pelago)
 
-## featured
+## **featured**
 
 ### certifications
 
@@ -77,7 +79,7 @@ Our team proposed the use of an app that could:<br>
 [ The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/certificate/UC-3a8820a7-7730-4d39-8232-89d3dd427b08/)
 
 
-### achievements
+### **achievements**
 
 ![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)
 
