@@ -1,6 +1,6 @@
-# **Data Analytics | Statistical Analysis | Machine Learning**
+# <font size="14">**Data Analytics | Statistical Analysis | Machine Learning**</font>    
 
-
+<br>________________________________________________________________________________<br>
 
 ## **contact**
 
@@ -9,39 +9,47 @@
 
 ## **about**
 
-I am __Wesley__, an aspiring Data Analyst and recent graduate from the Rapid & Immersive Skill Enhancement (RISE) course by Boston Consulting Group (BCG). I am also a graduate in Psychology from National University of Singapore (NUS) and have 7 years of working experience. Thank you for visiting my page! Feel free to take a look around and use the links to navigate through my various projects.
+Hi there! I am __Wesley__, an aspiring Data Analyst and recent graduate from the Rapid & Immersive Skill Enhancement (RISE) course by Boston Consulting Group (BCG). I am also a graduate in Psychology from National University of Singapore (NUS) and have 7 years of working experience. Thank you for visiting my page! Feel free to take a look around and use the links to navigate through my various projects.
 
 ## **projects**
 
-[visualization project](#visualization-project) <br>
-[statistical analysis project](#statistical-analysis-project) <br>
-[classification project](#classification-project) <br>
-[human centered design projects](#human-centered-design-projects) <br>
+[Visualization Project](#visualization-project) <br>
+[Statistical Analysis Project](#statistical-analysis-project) <br>
+[Classification Project](#classification-project) <br>
+[Human Centered Design Projects](#human-centered-design-projects) <br>
 
-### visualization project
+<br>________________________________________________________________________________<br>
+
+### <b>Visualization Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/visualization-project-1/visualization-project-Wesley_Teo.png)
 
 In this project, my main objective was to incorporate real-time diagnostics of a car seat manufacturing plant's operational processes to better manage available production lines and increase profit margin. Using data and analytics to track the production process of various machines in real time, I provided better visibility of the seat manufacturing process. An analytics dashboard was created using PowerBI to track the plant's operational process across various metrics i.e., downtime minutes, total machine utilization time, etc. Power Query Editor was used to cleaned the preliminary dataset and DAX expressions in PowerBI were used to create the visualized metrics.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/visualization-project-1)
 
-### statistical analysis project
+<br>---------------------------------------------------------------------------------<br>
+
+### <b>Statistical Analysis Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/statistical-analysis-project-1/mp2_plot.png)
 
 Tested hypothesis of whether the implementation of a revised gate system in a mobile game helped to reduce churn and increase retention rate of gamers, thus increasing year-on-year revenue from game purchases. Conducted A-B testing, statistical sampling and analysis to come to conclusions.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/statistical-analysis-project-1)
 
-### classification project
+<br>---------------------------------------------------------------------------------<br>
+
+### <b>Classification Project</b>
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/classifproj.png)
 
 Built a classification model to predict churn customers one month in advance and also identified key churn drivers for a telecom company. Completed end-to-end coding which included data cleaning, exploratory data analysis and feature engineering. Constructed a random forest classification model and tuned probability thresholds to better capture churn in this use case.
 
 [Click here to view codebase](https://github.com/rice-coder/projects/tree/main/classification-project-1)
 
-### human centered design projects
+<br>---------------------------------------------------------------------------------<br>
 
-<b> Digital Essentials Project - Kopitiam </b>
+### <b>Human Centered Design Projects</b>
+
+<em> Digital Essentials Project - Kopitiam </em>
 
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/digital-essentials-kopitiam/degp-kopitiam.png)
 
@@ -55,7 +63,7 @@ In this project our team proposed:<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/digital-essentials-kopitiam)
 
-<b> Hackathon Project - Pelago </b>
+<em> Hackathon Project - Pelago </em>
   
 ![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/hcd-projects/hackathon-pelago/hackathon-pelago.png)
 
@@ -69,6 +77,8 @@ Our team proposed the use of an app that could:<br>
 2. Encourages customer engagement by empowering them to build a community to share travel experiences and ideas.<br>
 
 [Click here to view project deck](https://github.com/rice-coder/projects/tree/main/hcd-projects/hackathon-pelago)
+
+<br>________________________________________________________________________________<br>
 
 ## **featured**
 
