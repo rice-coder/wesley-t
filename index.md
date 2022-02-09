@@ -39,7 +39,7 @@ Tested hypothesis of whether the implementation of a revised gate system in a mo
 <br>________________________________________________________________________________<br>
 
 ### <b>Classification Project</b>
-![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/classifproj.png)
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/classification-project-1/mp3.png)
 
 Built a classification model to predict churn customers one month in advance and also identified key churn drivers for a telecom company. Completed end-to-end coding which included data cleaning, exploratory data analysis and feature engineering. Constructed a random forest classification model and tuned probability thresholds to better capture churn in this use case.
 
