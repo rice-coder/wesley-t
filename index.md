@@ -13,10 +13,20 @@ Hi there! I am __Wesley__, an aspiring Data Analyst and recent graduate from the
 
 ## **projects**
 
+[Healthcare Statistics Project](#healthcare-statistics-project) <br>
 [Visualization Project](#visualization-project) <br>
 [Statistical Analysis Project](#statistical-analysis-project) <br>
 [Classification Project](#classification-project) <br>
 [Human Centered Design Projects](#human-centered-design-projects) <br>
+
+<br>________________________________________________________________________________<br>
+
+### <b>Healthcare Statistics Project</b>
+![alt text](https://raw.githubusercontent.com/rice-coder/projects/main/healthcare-project-1/healthcareproject.png)
+
+text for my healthcare project
+
+[Click here to view codebase](https://github.com/rice-coder/projects/tree/main/healthcare-project-1)
 
 <br>________________________________________________________________________________<br>
 
